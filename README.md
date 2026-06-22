@@ -14,7 +14,7 @@ Desarrollar una plataforma web interactiva capaz de visualizar variables climát
 
 ## *Plan a seguir*
 
-### Bloque 1: Pizarra Inicial & Configuración
+### Bloque 1: Pizarra Inicial y Configuración
 - [ ] **Configurar el entorno de desarrollo y estructura**
   - [ ] Diseñar y crear la estructura de carpetas del proyecto.
   - [ ] Configurar el entorno virtual e instalar dependencias (`shiny`, `xarray`, `pandas`, `matplotlib`/`plotly`).
