@@ -74,11 +74,11 @@ Desarrollar una plataforma web interactiva capaz de visualizar variables climát
 *Objetivo: Unificar el backend en una base de datos estable con mecanismos automáticos de importación y actualización de datos*
 
 - [ ] **Actualización Automática de Datos**
-  - [ ] Programar un script automático que reciba, valide y anexe nuevos archivos NetCDF.
+  - [ ] Programar un script automático que reciba, valide y anexe nuevos archivos NetCDF o dependiendo que otro tipo de archivos se requieran manejar.
   - [ ] Implementar lógica de detección para anexado temporal (nuevas fechas) o extensión de malla (nuevas coordenadas).
 - [ ] **Preparación de Servidor y Despliegue**
   - [ ] Preparar los archivos finales para que la pantalla los cargue rápido y solo lea los datos necesarios en cada clic (Lazy Loading).
-  - [ ] Implementar un panel de control para registrar fallas, vigilar la velocidad y gestionar el acceso simultáneo de múltiples usuarios.
+  - [ ] Implementar un panel de control para registrar fallas, vigilar la velocidad y gestionar el acceso simultáneo de usuarios.
 - [ ] **Aseguramiento de Calidad y Cierre**
   - [ ] Escribir pruebas unitarias (Tests) para las funciones puras de procesamiento.
 ---
@@ -90,7 +90,7 @@ Desarrollar una plataforma web interactiva capaz de visualizar variables climát
 - **Framework Web:** Shiny for Python
 - **Procesamiento de Datos:** Xarray, Pandas
 - **Visualización:** Matplotlib/Plotly
-- **Formatos de Datos:** NetCDF (.nc) / Datos Climáticos ERA5
+- **Formatos de Datos:** NetCDF (.nc) / Datos Climáticos ERA5 o definir que otros tipos de formato.
 
 ## Autor
 - **Esmeralda Morales Martínez** 
