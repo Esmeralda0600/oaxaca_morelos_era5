@@ -31,7 +31,7 @@ Desarrollar una plataforma web interactiva capaz de visualizar variables climát
   - [ ] Diseñar y probar algoritmos independientes para conversión de variables (temperatura y radiación) y zonas horarias.
 - [ ] **Prototipado Local**
   - [ ] Construir prototipos visuales en gráficas para validación matemática y coherente inmediata.
-  - [ ] Documentar hallazgos sobre elcomportamiento.
+  - [ ] Documentar hallazgos sobre el comportamiento.
 
 ---
 
