@@ -82,7 +82,7 @@ Desarrollar una plataforma web interactiva capaz de visualizar variables climát
 - [ ] **Aseguramiento de Calidad y Cierre**
   - [ ] Escribir pruebas unitarias (Tests) para las funciones puras de procesamiento.
 ---
-> **Nota de Cierre de Proyecto**
+> **Nota**
 > - [ ] Redactar la documentación técnica del repositorio y ejecutar el Deploy.
 
 ## Tecnologías Utilizadas
